@@ -3,7 +3,7 @@
     <img src=".docs/preview.png" alt="Aperçu du projet Pirate" />  
   </a>  
   </br></br>  
-  <h3 align="center">🏴‍☠️ Background Animation - Pirate</h3>  
+  <h3 align="center">🏴‍☠️ Page Pirate Animée – Légende des Mers</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
@@ -15,16 +15,30 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Ce projet propose une animation immersive sur le thème des pirates. Grâce à une superposition d’éléments visuels et un menu interactif, l’ambiance maritime est parfaitement recréée. Parfait pour une page d’accueil originale ou un projet créatif.
+Une landing page immersive sur le thème de la piraterie, avec animation des vagues, nuages en mouvement, et bateau flottant.  
+Un design responsive, parfait pour sites événementiels, jeux ou projets maritimes narratifs.
+
+Un univers graphique unique inspiré des légendes des mers.
 
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
 - HTML5 sémantique
-- CSS3 (variables, responsive, animations)
+- CSS3 moderne (keyframes, variables, media queries)
 - JavaScript ES6
 - [Remix Icons](https://remixicon.com/)
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
+
+- Bateau flottant animé en CSS
+- Parallaxe de vagues avec scroll infini
+- Nuages animés en boucle
+- Navigation mobile responsive avec menu toggle
+- Effet ombre sur le header au scroll
+- Appel à l’action animé “Explorer maintenant”
+- Typographies marines et visuelles personnalisées
+- Design adaptatif pour toutes résolutions
+
+---
 
 - Navigation fluide avec menu responsive
 - Animation visuelle des vagues, nuages et bateau pirate
@@ -36,15 +50,17 @@ Ce projet propose une animation immersive sur le thème des pirates. Grâce à u
 
 ### ✅ Prérequis
 
-- Navigateur moderne (Chrome recommandé)
-- Éditeur de code (VS Code)
+- [Google Chrome](https://www.google.com/) — Navigateur moderne
+- [Visual Studio Code](https://code.visualstudio.com/) — Éditeur de code
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) — Extension VS Code
 
 ### 📥 Cloner le projet
 
 ```bash
-git clone https://github.com/ValentinMadiot/background-animation-pirate_js.git
+git clone https://github.com/ValentinMadiot/background-animation-pirate_js
+cd background-animation-pirate_js
 ```
 
-### ▶️ Lancer localement
+### ▶️ Lancer le projet
 
-Il suffit d’ouvrir le fichier `index.html` dans un navigateur, ou d’utiliser l’extension **Live Server** sur VS Code pour un aperçu dynamique.
+Ouvre simplement le fichier `index.html` dans ton navigateur, ou utilise **Live Server** pour le visualiser dynamiquement.
