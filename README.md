@@ -3,7 +3,7 @@
     <img src=".docs/preview.png" alt="Aperçu du projet Pirate" />  
   </a>  
   </br></br>  
-  <h3 align="center">🏴‍☠️ Page Pirate Animée – Légende des Mers</h3>  
+  <h3 align="center">🏴‍☠️ Animation de Fond &nbsp;–&nbsp; Pirate</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
@@ -15,36 +15,27 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Une landing page immersive sur le thème de la piraterie, avec animation des vagues, nuages en mouvement, et bateau flottant.  
-Un design responsive, parfait pour sites événementiels, jeux ou projets maritimes narratifs.
+Landing page immersive sur le thème de la piraterie, mêlant animation des vagues, nuages en mouvement et bateau flottant. L’ensemble crée une scène vivante et responsive, idéale pour jeux, événements ou récits maritimes.
 
-Un univers graphique unique inspiré des légendes des mers.
+Chaque élément visuel contribue à plonger l’utilisateur dans un univers graphique unique, inspiré des légendes et aventures en haute mer.
 
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
-- HTML5 sémantique
-- CSS3 moderne (keyframes, variables, media queries)
-- JavaScript ES6
-- [Remix Icons](https://remixicon.com/)
+- HTML5 sémantique et accessible
+- CSS3 moderne avec variables, media queries et animations
+- JavaScript ES6 clair et modulaire
+- [Remix Icons](https://remixicon.com/) pour les icônes vectorielles
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
-- Bateau flottant animé en CSS
-- Parallaxe de vagues avec scroll infini
-- Nuages animés en boucle
-- Navigation mobile responsive avec menu toggle
-- Effet ombre sur le header au scroll
-- Appel à l’action animé “Explorer maintenant”
-- Typographies marines et visuelles personnalisées
-- Design adaptatif pour toutes résolutions
-
----
-
+- Bateau animé en flottement continu via CSS
+- Animation fluide des vagues avec effet de profondeur
+- Nuages animés en boucle pour enrichir le décor
 - Navigation fluide avec menu responsive
-- Animation visuelle des vagues, nuages et bateau pirate
-- Détection de scroll pour ombrer le header
-- Design immersif inspiré de l’univers des pirates
-- Interface adaptative pour tous les écrans
+- Apparition d'une ombre sur l'en-tête lors du défilement
+- Bouton d'appel à l’action animé “Explorer maintenant”
+- Typographies personnalisées à l’esthétique marine
+- Design responsive adapté à toutes les résolutions d’écran
 
 ## <br /> <a name="installation">🚀 Installation</a>
 
